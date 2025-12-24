@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.ryannair05.mitsuhaforever
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Ryan Nair
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ryannair05.mitsuhaforever.deb
+Size: 92008
+MD5sum: fd35842b4cab0b1a3621721e3b92113a
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: Mitsuha Forever
+Author: Ryan Nair
+Depiction: https://ast4r0z.github.io/LBrepo/depictions/com.ryannair05.mitsuhaforever/
